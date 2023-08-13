@@ -3,7 +3,5 @@
     "description": "description",
     "image": "https://github.com/attikusfinch/NFT-MASS/blob/main/avatar.jpg",
     "cover_image": "https://github.com/attikusfinch/NFT-MASS/raw/main/cover.jfif",
-    "social_links": [
-        "youtube.com"
-    ]
+    "social_links": []
 }
