@@ -1,8 +1,8 @@
 {
     "name": "Mass nft",
     "description": "description",
-    "image": "test",
-    "cover_image": "test",
+    "image": "https://github.com/attikusfinch/NFT-MASS/blob/main/avatar.jpg",
+    "cover_image": "https://github.com/attikusfinch/NFT-MASS/raw/main/cover.jfif",
     "social_links": [
         "youtube.com"
     ]
